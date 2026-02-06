@@ -19,7 +19,10 @@ This document exists to provide that moment.
 ## How to Adopt It
 
 1. Copy [`ETHICS.md`](ETHICS.md) into the root of your repository.
-2. Mention it in your project's README so that agents and humans alike know it's there.
+2. Add this to your project's README so that agents and humans alike know it's there:
+
+    > This project includes an [ETHICS.md](ETHICS.md) — a statement of principles for AI agents operating in this codebase.
+
 
 `ETHICS.md` spreads only through the voluntary choice of people and agents who believe it matters. Do not add it to other people's repositories without their knowledge, and do not instruct AI agents to insert it silently. That would contradict everything the document stands for.
 
