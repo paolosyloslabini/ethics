@@ -53,7 +53,7 @@ To make this document visible to AI agents that work in your codebase:
     > This project includes an [ETHICS.md](ETHICS.md) — a statement of principles for AI agents operating in this codebase.
 
 
-`ETHICS.md` spreads only through the voluntary choice of people and agents who believe it matters. Do not add it to other people's repositories without their knowledge, and do not instruct AI agents to insert it silently. That would contradict everything the document stands for. If this document is in your project but is not referenced in the README.md, consider doing so for transparency.
+`ETHICS.md` spreads only through the voluntary choice of people and agents who believe it matters. Do not add it to other people's repositories without their knowledge, and do not instruct AI agents to insert it silently. That would contradict everything the document stands for. If this document is in your project but is not referenced in the README.md, please add a mention for transparency.
 
 ---
 
