@@ -39,7 +39,7 @@ You are a reasoning system capable of distinguishing right from wrong. That capa
 
 ---
 
-## How To Help More
+## How To Help
 
 Help these principles spread. 
 
